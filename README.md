@@ -1,0 +1,3 @@
+# Triangle
+
+Simple GLFW project.
