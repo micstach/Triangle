@@ -2,8 +2,8 @@
 ipch
 .suo
 .sdf
-.VC.opendb
 x64/Release
 x64/Debug
 Triangle/x64/Release
 Triangle/x64/Debug
+*.opendb
