@@ -1,7 +1,8 @@
 .vs
 ipch
-suo
-sdf
+.suo
+.sdf
+.opendb
 x64/Release
 x64/Debug
 Triangle/x64/Release
